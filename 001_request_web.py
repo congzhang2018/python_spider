@@ -36,4 +36,3 @@ print(response.request.url)
 print(response.url)
 print(response.request.headers)
 print(response.headers)
-
