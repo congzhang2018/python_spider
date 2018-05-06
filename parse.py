@@ -30,4 +30,3 @@ if __name__ == '__main__':
     url1 = "www.baidu.com"
     print(parse_url(url)[:100])
     # print(parse_url(url1))
-
